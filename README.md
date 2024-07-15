@@ -1,4 +1,4 @@
-# Currently Working On -
+# **🔴Currently Working On🔴** -
 
 - **Layer not on top Bug**
 - **Instagram link not working**
@@ -6,7 +6,7 @@
 - **Multiple preset save option**
 - **Preset save forever**
 
-## **Maybe I will add this**
+## **🥱Maybe I will add this🥱**
 - **Custom UI**
 - **Anchor Point**
 
