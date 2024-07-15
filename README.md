@@ -29,7 +29,7 @@ Welcome to **Dheeman's Secret Sauce**! This After Effects script is designed to 
 
 ## 🖼️ Screenshots
 
-![Dheeman's Secret Sauce](./images/screenshot.png)
+![Dheeman's Secret Sauce](./image.png)
 
 ## 🤝 Contributing
 
