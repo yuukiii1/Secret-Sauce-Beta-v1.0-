@@ -1,3 +1,15 @@
+# Currently Working On -
+
+- **Layer not on top Bug**
+- **Instagram link not working**
+- **Text layer Addition**
+- **Multiple preset save option**
+- **Preset save forever**
+
+## **Maybe I will add this**
+- **Custom UI**
+- **Anchor Point**
+
 # 🎨 Dheeman's Secret Sauce 🎨
 
 Welcome to **Dheeman's Secret Sauce**! This After Effects script is designed to supercharge your workflow with a variety of powerful tools right at your fingertips.
