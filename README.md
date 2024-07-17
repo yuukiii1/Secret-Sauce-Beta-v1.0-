@@ -1,8 +1,8 @@
 # **🔴Currently Working On🔴** -
 
-- **Layer not on top Bug**
-- **Instagram link not working**
-- **Text layer Addition**
+- **~~Layer not on top Bug~~**
+- **~~Instagram link not working~~**
+- **~~Text layer Addition~~**
 - **Multiple preset save option**
 - **Preset save forever**
 
